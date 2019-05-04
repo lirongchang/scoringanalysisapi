@@ -1,0 +1,5 @@
+com.scoringanalysis.main.api
+com.scoringanalysis.main.impl
+com.scoringanalysis.main.pojo
+com.scoringanalysis.main.service
+com.scoringanalysis.main.util
